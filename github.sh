@@ -31,6 +31,6 @@ git commit -m "added ignored files" .gitignore
 
 git add .
 
-git commit -am "RastroBus - criando minha pagina de RotasPrevistas, anotações: erro sempre ao iniciar tem que atualizar a pagina para ir - resolver - $(date)"
+git commit -am "RastroBus - Mexendo com o mapa - $(date)"
 
 git push origin $branch_name
